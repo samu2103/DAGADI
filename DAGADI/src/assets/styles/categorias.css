@@ -1,0 +1,18 @@
+/* categorias.css */
+
+.carousel-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.arrow-button {
+  font-size: 3rem; /* Tamaño de fuente más grande para los botones */
+  margin: 0 15px; /* Aumenta el espacio entre los botones */
+}
+
+.carousel-image {
+  max-width: 100%;
+  max-height: 150px; /* Ajusta la altura según tus necesidades */
+  object-fit: cover;
+}

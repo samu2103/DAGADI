@@ -1,0 +1,84 @@
+
+.HSER{
+    width: 1600px;
+height: 100px;
+flex-shrink: 0;
+
+color: #000;
+
+text-align: center;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+font-family: Newsreader;
+font-size: 56px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+}
+
+.contenedor {
+  display: flex;
+  align-items: center;
+  padding: 50px;
+}
+
+.contenido {
+  flex: 1;
+}
+
+.contenido h1 {
+  font-size: 44px;
+  margin-bottom: 10px;
+}
+
+.contenido p {
+  font-size: 16px;
+}
+
+.foto {
+  margin-right: 20px; /* Añade espacio entre la imagen y el contenido */
+}
+
+.foto img {
+  width: 100%; /* La imagen ocupa todo el ancho del contenedor */
+}
+
+.gadi11{
+  width: 1000px;
+height: 24.175px;
+flex-shrink: 0;
+
+color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 90px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.pgadi{
+  width: 1000px;
+height: 1.616px;
+flex-shrink: 0;
+
+
+color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+
+.foto img {
+  width: 100%; /* La imagen ocupa todo el ancho del contenedor */
+  height: auto; /* Ajusta la altura automáticamente para mantener la proporción original */
+}
+
+/* Estilos para la segunda imagen */
+.foto-alternativa img {
+  width: 100%; /* La imagen ocupa todo el ancho del contenedor */
+  height: auto; /* Ajusta la altura automáticamente para mantener la proporción original */
+}

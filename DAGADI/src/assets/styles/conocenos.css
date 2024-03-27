@@ -1,0 +1,23 @@
+/* Header.css */
+.header2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px;
+    background-color: #827e7e;
+    border-bottom: 2px solid #ccc;
+  }
+  
+  .title3 {
+    margin: auto; /* Centra el texto horizontalmente */
+    margin-right: px; /* Ajusta el margen derecho para mover a la izquierda */
+    font-size: 60px;
+    text-align: center;
+    
+  }
+  
+  .logo2 {
+    width: 10px; /* Ajusta el tamaño según tus necesidades */
+    height: 5px;
+  }
+  
